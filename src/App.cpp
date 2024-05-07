@@ -1,6 +1,6 @@
 #include "App.h"
 
-void App::Print1()
+void App2::Print2()
 {
-	std::cout << "Print1";
+	std::cout << "Print2";
 }

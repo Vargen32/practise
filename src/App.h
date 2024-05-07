@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
-class App
+class App2
 {
 public:
-	void Print1();
+	void Print2();
 };
